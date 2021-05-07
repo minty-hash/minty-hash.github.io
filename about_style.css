@@ -34,6 +34,7 @@ body {
 .containerTab {
     padding: 10px;
     color: #382C1C;
+    border-color: slategray;
 }
 
 /* Clear floats after the columns */
