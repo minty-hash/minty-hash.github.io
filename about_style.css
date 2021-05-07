@@ -19,7 +19,7 @@ body {
 }
 
 .name {
-    color:purple;
+    color:#382C1C;
 }
 
 /* The grid: Equal columns that floats next to each other */
@@ -33,7 +33,7 @@ body {
 
 .containerTab {
     padding: 10px;
-    color: white;
+    color: #382C1C;
 }
 
 /* Clear floats after the columns */
