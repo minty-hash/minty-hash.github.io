@@ -33,7 +33,7 @@ body {
 
 .containerTab {
     padding: 10px;
-    color: white;
+    color: slategrey;
 }
 
 /* Clear floats after the columns */
@@ -46,7 +46,7 @@ body {
 /* Closable button inside the container tab */
 .closebtn {
     float: right;
-    color: white;
+    color: slategrey;
     font-size: 35px;
     cursor: pointer;
 }
