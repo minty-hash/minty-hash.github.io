@@ -16,22 +16,20 @@ body {
     margin: auto;
     text-align: center;
     color: slategrey;
-    font-size: 12px;
 }
 
 .name {
     color:purple;
-    font-size: xx-small;
 }
 
 /* The grid: Equal columns that floats next to each other */
 .column {
     float: left;
     width: 25%;
-    padding: 50px;
+    padding: 30px;
     text-align: center;
     cursor: pointer;
-    color: white;
+    color: grey;
 }
 
 .containerTab {
