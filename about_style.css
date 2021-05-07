@@ -20,16 +20,14 @@ body {
 
 .name {
     color:purple;
-    font-size: larger;
 }
 
-/* The grid: Three equal columns that floats next to each other */
+/* The grid: Equal columns that floats next to each other */
 .column {
     float: left;
     width: 25%;
     padding: 50px;
     text-align: center;
-    font-size: 25px;
     cursor: pointer;
     color: white;
 }
