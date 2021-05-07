@@ -29,11 +29,10 @@ body {
     padding: 10px;
     text-align: center;
     cursor: pointer;
-    color: grey;
 }
 
 .containerTab {
-    padding: 20px;
+    padding: 10px;
     color: white;
 }
 
