@@ -21,6 +21,7 @@ body {
 
 .name {
     color:purple;
+    font-size: xx-small;
 }
 
 /* The grid: Equal columns that floats next to each other */
